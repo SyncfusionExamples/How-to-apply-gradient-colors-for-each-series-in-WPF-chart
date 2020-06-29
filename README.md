@@ -4,7 +4,7 @@ This demo explains how to apply different gradient colors for each segment in WP
 
 WPF Chart allows us to visualize the segments in series with different gradient colors as per in below
 
-![](output.png) 
+![](Output.png) 
 
 It has been achieved by setting Interior value of segment with LinearGradientBrush as per in below code snippet
 
