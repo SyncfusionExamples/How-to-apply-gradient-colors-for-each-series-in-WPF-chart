@@ -1,12 +1,12 @@
-# Applying-gradient-colors-for-each-segment-in-WPF-chart-series
+# How to apply the gradient color for each series in WPF Chart
 
-This demo explains how to apply different gradient colors for each segment in WPF chart.
+This demo explains how to apply different gradient colors for each series in WPF chart.
 
 WPF Chart allows us to visualize the segments in series with different gradient colors as per in below
 
 ![](Output.png) 
 
-It has been achieved by setting Interior value of segment with LinearGradientBrush as per in below code snippet
+It has been achieved by setting Interior value of series with LinearGradientBrush as per in below code snippet
 
 **[XAML]**
 ```
