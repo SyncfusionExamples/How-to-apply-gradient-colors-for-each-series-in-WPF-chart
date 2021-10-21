@@ -48,6 +48,8 @@ It has been achieved by setting Interior value of series with LinearGradientBrus
     </chart:SfChart>     
 ```
 
+KB article - [How to apply the gradient color for each series in WPF Chart](https://www.syncfusion.com/kb/11849/how-to-apply-gradient-colors-for-each-series-in-wpf-chart)
+
 **See Also**
 
 [How to set color for the series ColorModel property](https://www.syncfusion.com/kb/5496/how-to-set-color-for-the-series-colormodel-property)
