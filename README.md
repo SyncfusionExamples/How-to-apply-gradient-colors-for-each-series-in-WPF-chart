@@ -1,12 +1,10 @@
-# How to apply the gradient color for each series in WPF Chart
+# How to apply gradient colors for each series in WPF Chart (SfChart)?
 
-This demo explains how to apply different gradient colors for each series in WPF chart.
+This demo explains how to apply different gradient colors for each series in [WPF chart](https://help.syncfusion.com/wpf/charts/overview).
 
-WPF Chart allows us to visualize the segments in series with different gradient colors as per in below
+[WPF Chart](https://help.syncfusion.com/wpf/charts/overview) allows us to visualize the segments in series with different gradient colors.
 
-![](Output.png) 
-
-It has been achieved by setting Interior value of series with LinearGradientBrush as per in below code snippet
+It has been achieved by setting [Interior](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Charts.ChartSegment.html#Syncfusion_UI_Xaml_Charts_ChartSegment_Interior) value of series with **LinearGradientBrush** as per in below code snippet
 
 **[XAML]**
 ```
@@ -48,9 +46,13 @@ It has been achieved by setting Interior value of series with LinearGradientBrus
     </chart:SfChart>     
 ```
 
-KB article - [How to apply the gradient color for each series in WPF Chart](https://www.syncfusion.com/kb/11849/how-to-apply-gradient-colors-for-each-series-in-wpf-chart)
+## Output:
 
-**See Also**
+![gradient colors for each series WPF Chart](Output.png) 
+
+KB article - [How to apply gradient colors for each series in WPF Chart](https://www.syncfusion.com/kb/11849/how-to-apply-gradient-colors-for-each-series-in-wpf-chart)
+
+### See Also
 
 [How to set color for the series ColorModel property](https://www.syncfusion.com/kb/5496/how-to-set-color-for-the-series-colormodel-property)
 
@@ -59,4 +61,3 @@ KB article - [How to apply the gradient color for each series in WPF Chart](http
 [How to change colors of specific data points in the chart](https://www.syncfusion.com/kb/10928/how-to-change-colors-of-specific-data-points-in-the-chart)
 
 [How to add custom color model to series](https://www.syncfusion.com/kb/5480/how-to-add-custom-color-model-to-series)
-
