@@ -48,9 +48,15 @@ It has been achieved by setting [Interior](https://help.syncfusion.com/cr/wpf/Sy
 
 ## Output:
 
-![gradient colors for each series WPF Chart](Output.png) 
+![gradient colors for each series WPF Chart](Output.png)
 
-KB article - [How to apply gradient colors for each series in WPF Chart](https://www.syncfusion.com/kb/11849/how-to-apply-gradient-colors-for-each-series-in-wpf-chart)
+## Troubleshooting
+
+#### Path too long exception
+
+If you are facing a path too long exception when building this example project, close Visual Studio and rename the repository to a shorter name before building the project.
+
+For more details, refer to the KB on [How to apply gradient colors for each series in WPF Chart](https://www.syncfusion.com/kb/11849/how-to-apply-gradient-colors-for-each-series-in-wpf-chart).
 
 ### See Also
 
